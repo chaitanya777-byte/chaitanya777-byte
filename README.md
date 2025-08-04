@@ -9,14 +9,24 @@
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 💡 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Backend & Microservices
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/SpringCloud-3C873A?style=for-the-badge&logo=spring&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka%20Discovery-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Security-JWT%20Auth-informational?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Feign](https://img.shields.io/badge/FeignClient-OpenFeign-blue?style=for-the-badge)
+![Gateway](https://img.shields.io/badge/API--Gateway-ff9800?style=for-the-badge)
+
+### 🛢️ Databases & Infra
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websockets&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-C51A4A?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -62,4 +72,4 @@
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my projects or connect for collaboration._
+_Thanks for visiting my profile! Feel free to explore my work or connect for collaboration._
