@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Chaitanya Howal
 
-<!--
-**chaitanya777-byte/chaitanya777-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Java Developer | Spring Boot Expert | React Enthusiast  
+🔒 Passionate about scalable architecture and clean code  
+🌱 Currently building: IntelliMeet | SkillSync | FarmBox  
+📫 How to reach me: [chaitanyahowal@gmail.com](mailto:chaitanyahowal@gmail.com)
 
-Here are some ideas to get you started:
+## 💼 Tech Stack
+- 💻 Java, Spring Boot, Hibernate, MySQL
+- 🌐 React.js, TailwindCSS, REST APIs
+- ☁️ GitHub Actions,JWT, WebSocket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🧠 **SkillSync** – Smart task & chat system (Spring Boot + React)
+- 🌾 **FarmBox** – B2C platform for farmers and buyers
+
+
+## 🔗 Connect with Me
+ LinkedIn: http://linkedin.com/in/chaitanya-howal-740bb0199
+
