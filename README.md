@@ -2,7 +2,6 @@
 
 💻 Java Full Stack Developer | Spring Boot Expert | React Enthusiast  
 🚀 Passionate about building real-world scalable platforms using clean architecture  
-🎯 Currently working on: IntelliMeet | SkillSync | FarmBox  
 📫 Reach me at: [chaitanyahowal@gmail.com](mailto:chaitanyahowal@gmail.com)
 
 ---
